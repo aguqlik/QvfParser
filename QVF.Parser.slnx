@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/QVF.Parser.Core/QVF.Parser.Core.csproj" />
+    <Project Path="src/QVF.Parser/QVF.Parser.csproj" />
+  </Folder>
+</Solution>
