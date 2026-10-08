@@ -7,6 +7,8 @@ Reads a Qlik Sense `.qvf` file into a typed, queryable model covering the load s
 
 `json` and `script` write plain output to stdout, and errors go to stderr, so piping into other tools keeps working.
 
+Replace the reference.qvf with your app
+
 ## Build
 
 ```
